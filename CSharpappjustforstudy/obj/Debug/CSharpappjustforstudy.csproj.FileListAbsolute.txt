@@ -1,0 +1,7 @@
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\bin\Debug\CSharpappjustforstudy.exe.config
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\bin\Debug\CSharpappjustforstudy.exe
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\bin\Debug\CSharpappjustforstudy.pdb
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\obj\Debug\CSharpappjustforstudy.csprojResolveAssemblyReference.cache
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\obj\Debug\CSharpappjustforstudy.csproj.CoreCompileInputs.cache
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\obj\Debug\CSharpappjustforstudy.exe
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\CSharpappjustforstudy\obj\Debug\CSharpappjustforstudy.pdb

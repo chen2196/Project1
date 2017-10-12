@@ -1,0 +1,13 @@
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\System.Web.Http.dll
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\bin\Debug\System.Web.Http.xml
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\chens\Source\Repos\CSharpappjustforstudy\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
